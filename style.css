@@ -1,0 +1,20 @@
+body {
+  background-color: pink;
+  background-size: cover;
+  margin: 15px;
+  font-family: Arial, sans-serif;
+}
+
+p{
+  border: 3px solid blueviolet;
+  margin: 25px;
+  padding: 7px;
+  font-family: 'Dancing Script', Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+h2, h3 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  color: darkviolet;
+}
